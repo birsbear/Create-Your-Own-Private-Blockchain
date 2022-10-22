@@ -1,3 +1,17 @@
+1.Get Genesis block
+![alt text](https://github.com/birsbear/Create-Your-Own-Private-Blockchain/blob/main/snapshot/1.Get%20Genesis%20block.png)
+
+2.POST requestValidation
+![alt text](https://github.com/birsbear/Create-Your-Own-Private-Blockchain/blob/main/snapshot/2.POST%20requestValidation.png)
+
+3.Sign Message Wallet
+![alt text](https://github.com/birsbear/Create-Your-Own-Private-Blockchain/blob/main/snapshot/3.Sign%20Message%20Wallet.png)
+
+4.Submit Star
+![alt text](https://github.com/birsbear/Create-Your-Own-Private-Blockchain/blob/main/snapshot/4.Submit%20Star.png)
+
+5.GET retrieve starts
+![alt text](https://github.com/birsbear/Create-Your-Own-Private-Blockchain/blob/main/snapshot/5.GET%20retrieve%20starts.png)
 # Private Blockchain Application
 
 You are starting your journey as a Blockchain Developer, this project allows you to demonstrate
